@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(24, 22, 22);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-family: arial;
+}
+
+#playlist{
+    color: white;
+    font-family: arial;
+}
+#img1-2{
+    padding: auto;
+    margin: auto;
+    border-radius: 30px;
+    
+}
+#img2-3{
+    padding: auto;
+    border-radius: 30px;
+}
+
+div{
+    
+    padding: auto;
+    padding-right: auto;
+    padding-left: auto;
+}
